@@ -1,0 +1,14 @@
+{
+  "name": "jquery-ui-easing-functions",
+  "repo": "Wayla/jquery-ui-easing-functions",
+  "description": "jquery ui easing functions to use with jquery.animate()",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
